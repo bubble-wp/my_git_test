@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL-root@192.168.92.161" uuid="ae79a5bb-7521-47fc-bb1e-5287ba5e47bc">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="PostgreSQL - postgres@192.168.92.161" uuid="670cadfb-ccf2-4279-9595-3cf35b2c4f3e">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

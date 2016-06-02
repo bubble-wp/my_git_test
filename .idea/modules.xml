@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/201511.iml" filepath="$PROJECT_DIR$/.idea/201511.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../51CTO/.idea/51CTO.iml" filepath="$PROJECT_DIR$/../51CTO/.idea/51CTO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Code_Python/.idea/Code_Python.iml" filepath="$PROJECT_DIR$/../Code_Python/.idea/Code_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Data_Analysis/.idea/Data_Analysis.iml" filepath="$PROJECT_DIR$/../Data_Analysis/.idea/Data_Analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Head_First_Python/.idea/Head_First_Python.iml" filepath="$PROJECT_DIR$/../Head_First_Python/.idea/Head_First_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_DevOps/.idea/Python_DevOps.iml" filepath="$PROJECT_DIR$/../Python_DevOps/.idea/Python_DevOps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spider/.idea/Spider.iml" filepath="$PROJECT_DIR$/../Spider/.idea/Spider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Splunk/.idea/Splunk.iml" filepath="$PROJECT_DIR$/../Splunk/.idea/Splunk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TPCUP/.idea/TPCUP.iml" filepath="$PROJECT_DIR$/../TPCUP/.idea/TPCUP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Code_Python/Test/.idea/Test.iml" filepath="$PROJECT_DIR$/../Code_Python/Test/.idea/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hg_python/.idea/hg_python.iml" filepath="$PROJECT_DIR$/../hg_python/.idea/hg_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../51CTO/homework/.idea/homework.iml" filepath="$PROJECT_DIR$/../51CTO/homework/.idea/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project.hg/.idea/project.hg.iml" filepath="$PROJECT_DIR$/../project.hg/.idea/project.hg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../virtualenv_test_27/.idea/virtualenv_test_27.iml" filepath="$PROJECT_DIR$/../virtualenv_test_27/.idea/virtualenv_test_27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xNotebook/.idea/xNotebook.iml" filepath="$PROJECT_DIR$/../xNotebook/.idea/xNotebook.iml" />
+    </modules>
+  </component>
+</project>

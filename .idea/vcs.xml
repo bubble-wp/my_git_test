@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../51CTO" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/../51CTO/homework" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../51CTO_homework/stu176381/day5" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Data_Analysis" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/../Head_First_Python" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/../hg_python" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/../hg_store" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/../project.hg" vcs="hg4idea" />
+  </component>
+</project>
